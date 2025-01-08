@@ -1,0 +1,9 @@
+wp-config.php
+wp-content/uploads/
+.DS_Store
+*.log
+.git-credentials
+node_modules/
+tmp/
+*.tmp
+*.swp

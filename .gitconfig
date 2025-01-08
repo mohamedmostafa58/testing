@@ -1,0 +1,4 @@
+[core]
+    fileMode = false
+[safe]
+    directory = /var/www/html/sites/testing
